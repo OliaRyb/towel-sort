@@ -18,5 +18,3 @@ module.exports = function towelSort (matrix) {
   console.log(newArray);
   return newArray;
 }
-
-module.exports(undefined);
